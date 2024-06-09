@@ -3,7 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./component/Header"; 
-import "./App.css";
+import "./App.css"; 
 import Sidebar from "./component/Sidebar";
 import Footer from "./component/Footer";
 import CreatePost from "./component/CreatePost";
