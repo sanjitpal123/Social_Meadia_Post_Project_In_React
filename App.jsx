@@ -7,7 +7,7 @@ import "./App.css";
 import Sidebar from "./component/Sidebar";
 import Footer from "./component/Footer"; 
 import CreatePost from "./component/CreatePost";  
-import PostList from "./component/PostList";  
+import PostList from "./component/PostList";   
 import Postlistprovider from "./STORE/post-list-store";  
 import { Postlist } from "./STORE/post-list-store"; 
 
