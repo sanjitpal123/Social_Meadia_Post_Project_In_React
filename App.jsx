@@ -12,7 +12,7 @@ import Postlistprovider from "./STORE/post-list-store";
 import { Postlist } from "./STORE/post-list-store"; 
 
 function App() {
-  const [selectedtab, setselectedtab]=useState("Home");
+  const [selectedtab, setselectedtab]=useState("Home"); 
   return (
     <Postlistprovider>
 
